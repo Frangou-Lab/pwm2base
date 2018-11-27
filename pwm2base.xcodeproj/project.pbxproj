@@ -604,7 +604,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = Cellecta;
+				ORGANIZATIONNAME = "Frangou Lab";
 				TargetAttributes = {
 					CF542E521EACBCE300FB7912 = {
 						CreatedOnToolsVersion = 8.3.2;
